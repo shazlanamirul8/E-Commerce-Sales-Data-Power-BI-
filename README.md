@@ -44,10 +44,10 @@ I wanted to show the numbers from the data. The objective of it is to easily sho
 - Profit
 
 Analysis
-- The dataset contains 5,000 customers who collectively purchased 15,000 units.
+- The dataset contains 5,000 customers who collectively purchased 15,000 units of quantities.
 - Total sales after discount amounts to $533.67M, with $59.51M in discounts applied.
 - By adding the discounts back, we can calculate total sales before discount, providing insight into pricing and promotional strategies.
-- Overall, the company achieved $79.71M in profit, highlighting strong profitability despite discounting.
+- Overall, the company achieved $79.71M in profit, highlighting strong profitability despite discounting. From here, we get the insight of whether of not to give more discount since we in order to attract more customers.
 
 ### Screenshot of the cards
 ![number_data](number_data.png)
@@ -65,11 +65,13 @@ Analysis
 ![profit_made](profit_made.png)
 
 ## 3. Profit by Category
-The chart shows which product has the highest profit for the company. This is important to note so we know that certain product perform in which location by clicking on the column chart.
+The chart shows which product has the highest profit for the company to give insight on our best product.
 
 Analysis
 - We can identify that furniture give us the most profit with $8.7M in total.
+- Cities like Guwahati, Mumbai, Delhi, Goa and Ahmedabad are among the highest cities that give us most profit.
 - This insight helps guide marketing focus, inventory planning, and product strategy, ensuring resources are allocated to high-return categories.
+- It is worth to pay extra attention too on home decor and clothing as these two also not far behind furniture in term of profit.
 
 ### Screenshot of the Column Chart
 ![category_profit](category_profit2.png)
@@ -101,6 +103,8 @@ Analysis
 
 Analysis:
 - The company achieves an average profit margin of 15%, indicating a healthy balance between pricing, costs, and discounts.
+- We may increase our discount. It will give us lower profit margin but will attract more customers. On the other hand, we can do experiment on decreasing discounts in order to get more profit margin.
+- A/B testing or time-based promotions could help determine the most effective approach.
 
 ### Screenshot of the Gauge
 ![profit_margin](profit_margin.png)
